@@ -39,7 +39,7 @@ These identity tokens (poToken and visitor_data) will make your YouTube session 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/youtube-trusted-session-generator.git
+git clone https://github.com/dawgcodes/youtube-trusted-session-generator.git
 cd youtube-trusted-session-generator
 
 # Install dependencies
